@@ -1,0 +1,2 @@
+user="postgres"
+pwd="password"
